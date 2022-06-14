@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One-Up</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;600;700&display=swap');
+        
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="nav__logo">
+                <img src="img/oneup_logo.png" class="nav__logo">
+            </div>
+            <div class="menu">
+                <a href="#" class="nav__menu">INICIO</a>
+                <a href="#" class="nav__menu">NOSOTROS</a>
+                <a href="#" class="nav__menu">SERVICIOS</a>
+                <a href="#" class="nav__menu">CLIENTES</a>
+                <a href="#" class="nav__menu">CONTACTO</a>
+            </div>
+        </nav>
+    </header>
+
+
+    <section class="portada">
+        <div class="banner">
+            <div class="banner__texto">
+                <h1>SOLUCIONES TECNOLOGÍA TRANSFORMACIÓN</h1>
+                <P>La innovación es lo que distingue a un líder de los demás</P>
+                <a href="#" class="btn">CONOCE MÁS</a>
+            </div>            
+        </div>
+    </section>
+
+
+    <section class="contenedor">
+        <div class="nuestroobjetivo">
+            <div class="nuestroobjetivo__texto">
+                <h2>NUESTRO OBJETIVO</h2>
+                <P>Brindar tecnología e innovación a las empresas para automatizar y transformar sus procesos; generar soluciones que optimicen el sistema y flujo de desarrollo tecnológico</P>
+                <a href="#" class="btn" type="button">LEER MÁS</a>
+            </div>   
+            <div class="nuestroobjetivo__imagen">
+                <img src="img/computadora_oneup.jpg" alt="Computadora">
+            </div>            
+        </div>    
+    </section>
+    <section class="contenedor">
+        <div class="nuestrosservicios__titulo">
+            <h2>NUESTROS SERVICIOS</h2>
+        </div>
+        <div class="nuestrosservicios">  
+            <div class="nuestroobjetivo__icono">
+                <img src="img/icono1.png" alt="Icono1">
+            </div>
+            <div class="nuestrosservicios__texto">
+                <h3>Lorem ipsum sit amet</h3>
+                <P>Lorem ipsum dolor sit amet, consec adipisicing elit,  sed do eiusmod.</P>                
+            </div> 
+            <div class="nuestroobjetivo__icono">
+                <img src="img/icono2.png" alt="Icono1">
+            </div>
+            <div class="nuestrosservicios__texto">
+                <h3>Lorem ipsum sit amet</h3>
+                <P>Lorem ipsum dolor sit amet, consec adipisicing elit,  sed do eiusmod.</P>                
+            </div> 
+            <div class="nuestroobjetivo__icono">
+                <img src="img/icono3.png" alt="Icono1">
+            </div>
+            <div class="nuestrosservicios__texto">
+                <h3>Lorem ipsum sit amet</h3>
+                <P>Lorem ipsum dolor sit amet, consec adipisicing elit,  sed do eiusmod.</P>                
+            </div> 
+        </div>
+        <div class="nuestrosservicios">  
+            <div class="nuestroobjetivo__icono">
+                <img src="img/icono4.png" alt="Icono1">
+            </div>
+            <div class="nuestrosservicios__texto">
+                <h3>Lorem ipsum sit amet</h3>
+                <P>Lorem ipsum dolor sit amet, consec adipisicing elit,  sed do eiusmod.</P>                
+            </div> 
+            <div class="nuestroobjetivo__icono">
+                <img src="img/icono5.png" alt="Icono1">
+            </div>
+            <div class="nuestrosservicios__texto">
+                <h3>Lorem ipsum sit amet</h3>
+                <P>Lorem ipsum dolor sit amet, consec adipisicing elit,  sed do eiusmod.</P>                
+            </div> 
+            <div class="nuestroobjetivo__icono">
+                <img src="img/icono6.png" alt="Icono1">
+            </div>
+            <div class="nuestrosservicios__texto">
+                <h3>Lorem ipsum sit amet</h3>
+                <P>Lorem ipsum dolor sit amet, consec adipisicing elit,  sed do eiusmod.</P>                
+            </div> 
+        </div>    
+    </section>
+    <section class="contenedor2">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.295264654746!2d-77.03066518518699!3d-12.091927591437209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c9acacb6fb71%3A0x594b5ad3c80eb548!2sAv.%20Javier%20Prado%20Este%20476%2C%20San%20Isidro%2015046!5e0!3m2!1ses-419!2spe!4v1654552259002!5m2!1ses-419!2spe" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
+    </section>
+    <section class="footer1 pie-de-pagina">
+        <div class="footer1-pie-de-pagina"> 
+                <img src="img/oneup_logo.png" alt="logo-fundacion">
+                <p>This project has been funded with support from the European Commission. This publication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>
+
+        </div>
+
+    </section>
+    <section class="footer2 pie-de-pagina">
+        <div class="footer2-pie-de-pagina"> 
+                
+                <p>© 2018 Colmooc. All rights reserved.</p>
+
+        </div>
+
+    </section>
+
+</body>
+</html>
